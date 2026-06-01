@@ -1,0 +1,6 @@
+{
+  "name": "Laboratorio de Métodos Numéricos",
+  "description": "Módulos interactivos para resolver sistemas de ecuaciones, raíces de ecuaciones, interpolación, integración y ecuaciones diferenciales en tiempo real con análisis detallado de escenarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
